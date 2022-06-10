@@ -13,6 +13,7 @@
 * HTML 
 
 ##  Education 
+College: BRANCH OF BSEU "MINSK FINANCIAL AND ECONOMIC COLLEGE"
 University: POLESSKY STATE UNIVERSITY
 
 ##  Language 
